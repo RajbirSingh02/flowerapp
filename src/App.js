@@ -13,8 +13,8 @@ function App() {
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="mr-auto">
-              <Nav.Link href="/">Home</Nav.Link>
-              <Nav.Link href="about">About Us</Nav.Link>
+              <Nav.Link href="flowerapp/">Home</Nav.Link>
+              <Nav.Link href="flowerapp/about">About Us</Nav.Link>
               <NavDropdown title="Dropdown" id="basic-nav-dropdown">
                 <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
                 <NavDropdown.Item href="#action/3.2">Another action</NavDropdown.Item>
@@ -30,8 +30,8 @@ function App() {
           </Navbar.Collapse>
         </Navbar>
         <Switch>
-          <Route exact path='/' component={Home} />
-          <Route exact path='/about' component={About} />
+          <Route exact path='flowerapp/' component={Home} />
+          <Route exact path='flowerapp/about' component={About} />
           <Route render={function () {
             return <p>Not found</p>
           }} />
