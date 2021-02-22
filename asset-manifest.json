@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/flower-app/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/flower-app/static/js/main.425f6c7c.chunk.js",
-    "main.js.map": "/flower-app/static/js/main.425f6c7c.chunk.js.map",
-    "runtime-main.js": "/flower-app/static/js/runtime-main.83c1c89a.js",
-    "runtime-main.js.map": "/flower-app/static/js/runtime-main.83c1c89a.js.map",
-    "static/css/2.150d169a.chunk.css": "/flower-app/static/css/2.150d169a.chunk.css",
-    "static/js/2.ae762083.chunk.js": "/flower-app/static/js/2.ae762083.chunk.js",
-    "static/js/2.ae762083.chunk.js.map": "/flower-app/static/js/2.ae762083.chunk.js.map",
-    "static/js/3.ba302f1f.chunk.js": "/flower-app/static/js/3.ba302f1f.chunk.js",
-    "static/js/3.ba302f1f.chunk.js.map": "/flower-app/static/js/3.ba302f1f.chunk.js.map",
-    "index.html": "/flower-app/index.html",
-    "static/css/2.150d169a.chunk.css.map": "/flower-app/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.6dea0f05.chunk.css.map": "/flower-app/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.ae762083.chunk.js.LICENSE.txt": "/flower-app/static/js/2.ae762083.chunk.js.LICENSE.txt"
+    "main.css": "/flowerapp/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/flowerapp/static/js/main.ab4842e1.chunk.js",
+    "main.js.map": "/flowerapp/static/js/main.ab4842e1.chunk.js.map",
+    "runtime-main.js": "/flowerapp/static/js/runtime-main.0883f3c1.js",
+    "runtime-main.js.map": "/flowerapp/static/js/runtime-main.0883f3c1.js.map",
+    "static/css/2.150d169a.chunk.css": "/flowerapp/static/css/2.150d169a.chunk.css",
+    "static/js/2.c05447de.chunk.js": "/flowerapp/static/js/2.c05447de.chunk.js",
+    "static/js/2.c05447de.chunk.js.map": "/flowerapp/static/js/2.c05447de.chunk.js.map",
+    "static/js/3.4f77babb.chunk.js": "/flowerapp/static/js/3.4f77babb.chunk.js",
+    "static/js/3.4f77babb.chunk.js.map": "/flowerapp/static/js/3.4f77babb.chunk.js.map",
+    "index.html": "/flowerapp/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/flowerapp/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/flowerapp/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.c05447de.chunk.js.LICENSE.txt": "/flowerapp/static/js/2.c05447de.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.83c1c89a.js",
+    "static/js/runtime-main.0883f3c1.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.ae762083.chunk.js",
+    "static/js/2.c05447de.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.425f6c7c.chunk.js"
+    "static/js/main.ab4842e1.chunk.js"
   ]
 }
