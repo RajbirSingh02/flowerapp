@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/flowerapp/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/flowerapp/static/js/main.ab4842e1.chunk.js",
-    "main.js.map": "/flowerapp/static/js/main.ab4842e1.chunk.js.map",
+    "main.js": "/flowerapp/static/js/main.6bcf22bd.chunk.js",
+    "main.js.map": "/flowerapp/static/js/main.6bcf22bd.chunk.js.map",
     "runtime-main.js": "/flowerapp/static/js/runtime-main.0883f3c1.js",
     "runtime-main.js.map": "/flowerapp/static/js/runtime-main.0883f3c1.js.map",
     "static/css/2.150d169a.chunk.css": "/flowerapp/static/css/2.150d169a.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.150d169a.chunk.css",
     "static/js/2.c05447de.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.ab4842e1.chunk.js"
+    "static/js/main.6bcf22bd.chunk.js"
   ]
 }
